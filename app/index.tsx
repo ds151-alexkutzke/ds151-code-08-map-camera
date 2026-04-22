@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
 
   // Marcador do Mapa Customizado
   markerContainer: { padding: 2, backgroundColor: '#fff', borderRadius: 10, elevation: 5 },
-  markerImage: { width: 100, height: 100, borderRadius: 8 },
+  markerImage: { width: 40, height: 40, borderRadius: 8 },
 
   // Câmera
   camera: { flex: 1 },
