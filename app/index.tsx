@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
 
   // Câmera
   camera: { flex: 1 },
-  cameraOverlay: { flex: 1, justifyContent: 'flex-end', alignItems: 'center', paddingBottom: 40, flexDirection: 'row', justifyContent: 'space-evenly' },
+  cameraOverlay: { flex: 1, alignItems: 'flex-end', paddingBottom: 40, flexDirection: 'row', justifyContent: 'space-evenly' },
   captureButton: { backgroundColor: '#28a745', padding: 15, borderRadius: 30 },
   cancelButton: { backgroundColor: '#dc3545', padding: 15, borderRadius: 30 },
 });
